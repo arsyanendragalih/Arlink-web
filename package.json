@@ -1,0 +1,5 @@
+{
+  "scripts": {
+    "build": "PUBLIC_URL=./ react-scripts build"
+  }
+}
